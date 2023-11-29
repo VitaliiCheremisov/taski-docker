@@ -1,7 +1,5 @@
 from http import HTTPStatus
-
 from backend.api import models
-
 from django.test import Client, TestCase
 
 
