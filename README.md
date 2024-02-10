@@ -6,7 +6,7 @@
 - Упаковка backend-Django, frontend-React, getaway-Nginx в контейнеры Docker Compose
 - Настройка CI/CD с помощью  GitHubActions
 
-## Что нужно сдлеать
+## Что нужно сделать
 
 Склонировать репозиторий на ваш локальный компьютер
 ```
