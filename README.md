@@ -29,6 +29,4 @@ Nginx
 Docker
 ```
 Автор
-```
-Виталий Черемисов
-```
+- [Виталий Черемисов](https://github.com/VitaliiCheremisov)
